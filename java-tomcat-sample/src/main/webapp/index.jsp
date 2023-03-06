@@ -4,11 +4,12 @@
 
 <h3>Fidget Spinner.....</h3>
 <p>
-    They're also touted as extremely beneficial,
-     with makers claiming gains such as increased
-      concentration for those with ADHD and autism spectrum issues,
-       and relief from stress, anxiety, and even post-traumatic
-        stress disorder symptoms.
+    MGIC Investment is a provider of private mortgage insurance in the United States.
+In addition to mortgage insurance, MGIC provides lenders with various underwriting 
+and other services and products related to home mortgage lending.
+We provide our customers with credit loss protection,
+reducing and in some instances eliminating the losses they would experience 
+if a homeowner defaults on a mortgage loan.  
 </p>
 </body>
 </html>
